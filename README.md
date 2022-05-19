@@ -1,6 +1,6 @@
 # Hi there, I'm Vito Elias - aka [RoyCal][steam]
 
-## I'm a student, Developer, Musician and Sportsman!
+## I'm a Student, Developer, Musician and Sportsman!
 - 👾 I'm currently learning Python, HTML and CSS
 - 🤝 I'm looking to collaborate with other projects and stuff
 - 🥅 2022 Goals: Join [TAIL][tail], [ARIA][aria] and get good grades
