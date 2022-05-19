@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Join [TAIL][tail], [ARIA][aria] and get good grades
 - 🔥 Fun fact: I love to play guitar and go to the gym
 
-<br>
+
 
 ## Connect with me:
 <div> 
@@ -15,16 +15,16 @@
   <a href = "mailto:vito.elias9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://steamcommunity.com/id/roycal/"><img src="https://img.shields.io/badge/-Steam-2F3134?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-<br><br>
+<br>
 
 ## Languages and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VsCode" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 <br>
@@ -33,8 +33,8 @@
 
 <div>
   <a href="https://github.com/RoyCal">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=RoyCal&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyCal&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=RoyCal&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyCal&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <br>
