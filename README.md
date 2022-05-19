@@ -39,7 +39,7 @@
 
 <br>
  
-![Snake animation](https://github.com/emillyedu/emillyedu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RoyCal/RoyCal/blob/main/output/github-contribution-grid-snake.svg)
  
 </div>
 
