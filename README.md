@@ -15,8 +15,6 @@
   <a href = "mailto:vito.elias9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://steamcommunity.com/id/roycal/"><img src="https://img.shields.io/badge/-Steam-2F3134?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-<hr>
-
 <br>
 
 ## Languages and tools:
