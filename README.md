@@ -32,16 +32,21 @@
 
 ## Stats:
 
-<div>
+<div align="center">
   <a href="https://github.com/RoyCal">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=roycal&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-
+  
 <br>
+
+<div align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/roycal/count.svg"/>
+</div>
  
-![Snake animation](https://github.com/RoyCal/RoyCal/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center">
+  ![Snake animation](https://github.com/RoyCal/RoyCal/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 [steam]: https://steamcommunity.com/id/roycal/
