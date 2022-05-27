@@ -40,14 +40,14 @@
   
 <br>
 
+![Snake animation](https://github.com/RoyCal/RoyCal/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
+  
 <div align="center"> 
-   Visitor count<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/roycal/count.svg"/>
 </div>
- 
-
-![Snake animation](https://github.com/RoyCal/RoyCal/blob/output/github-contribution-grid-snake.svg)
-
 
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
