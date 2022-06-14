@@ -6,7 +6,8 @@
 - 🥅 2022 Goals: Join [TAIL][tail], [ARIA][aria] and get good grades
 - 🔥 Fun fact: I love to play guitar and go to the gym
 
-
+## Volunteer Experience
+- Member of IEEE [CS][CS]/[CIS][CIS] UFPB (Computer Society and Computational Intelligence Society)
 
 ## Connect with me:
 <div> 
@@ -51,3 +52,5 @@
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
 [aria]: https://aria.ci.ufpb.br/en/sobre/
+[CS]: https://www.linkedin.com/company/ieee-computer-society/
+[CIS]: https://www.linkedin.com/company/ieee-computational-intelligence-society/
