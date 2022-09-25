@@ -3,11 +3,12 @@
 ## I'm a Student, Developer, Musician and Sportsman!
 - 👾 I'm currently learning Python, HTML and CSS
 - 🤝 I'm looking to collaborate with other projects and stuff
-- 🥅 2022 Goals: Join [TAIL][tail], [ARIA][aria] and get good grades
+- 🥅 2022 Goals: Join [ARIA][aria] and get good grades
 - 🔥 Fun fact: I love to play the guitar and go to the gym
 
 ## Volunteer Experience
 - Member of IEEE [CS][CS]/[CIS][CIS] UFPB (Computer Society and Computational Intelligence Society)
+- Member of [TAIL][tail] (Technology and Artificial Intelligence League)
 
 ## Connect with me:
 <div> 
