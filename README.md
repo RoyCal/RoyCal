@@ -7,8 +7,8 @@
 - 🔥 Fun fact: I love to play the guitar and go to the gym
 
 ## Volunteer Experience
-- Member of IEEE [CS][CS]/[CIS][CIS] UFPB (Computer Society and Computational Intelligence Society)
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
+- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
 
 ## Connect with me:
 <div> 
@@ -54,5 +54,4 @@
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
 [aria]: https://aria.ci.ufpb.br/en/sobre/
-[CS]: https://www.linkedin.com/company/ieee-computer-society/
-[CIS]: https://www.linkedin.com/company/ieee-computational-intelligence-society/
+[RAS]: https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true
