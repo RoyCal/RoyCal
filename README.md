@@ -26,10 +26,11 @@
   <img align="center" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pygame" height="120" width="160" src="https://www.pygame.org/docs/_static/pygame_logo.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VsCode" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Assembly" height="60" width="80" src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png">
+  <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Assembly" height="60" width="100" src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png">
 </div>
 
 <br>
