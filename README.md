@@ -21,7 +21,7 @@
 
 ## Languages and tools:
 
-<div><br>
+<div align="center"><br>
   <a href="https://github.com/roycal">
   <img align="center" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
