@@ -6,6 +6,10 @@
 - 🥅 2023 Goals: Join a project and get good grades
 - 🔥 Fun fact: I love to play the guitar and go to the gym
 
+## Experience
+- [Energisa][energisa] (09/11/2023 - present)
+  - Data analysis and visualization
+
 ## Volunteer Experience
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
 - Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
@@ -29,12 +33,14 @@
   <img align="center" alt="JavaScript" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="html" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Assembly" height="60" width="100" src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png">
   <img align="center" alt="MySQL" height="100" width="120" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Pygame" height="120" width="160" src="https://www.pygame.org/docs/_static/pygame_logo.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VsCode" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Assembly" height="60" width="100" src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png">
 </div>
 
 <br>
@@ -61,3 +67,4 @@
 [tail]: https://github.com/TailUFPB
 [aria]: https://aria.ci.ufpb.br/en/sobre/
 [RAS]: https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true
+[energisa]: https://www.energisa.com.br/
