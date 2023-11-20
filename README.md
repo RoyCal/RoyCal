@@ -53,10 +53,6 @@
 </div>
   
 <br>
-
-![Snake animation](https://github.com/RoyCal/RoyCal/blob/output/github-contribution-grid-snake.svg)
-  
-<br>
   
 <div align="center"> 
   Visitor count<br>
