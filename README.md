@@ -1,14 +1,16 @@
 # Hi there, I'm Vito Elias - aka [RoyCal][steam]
 
 ## I'm a Student, Developer, Musician and Sportsman!
-- 👾 I'm currently learning web development, electronics and databases
+- 👾 I'm currently learning operational research, software engineering and operating systems
 - 🤝 I'm looking to collaborate with other projects and stuff
-- 🥅 2023 Goals: Join a project and get good grades
+- 🥅 2024 Goals: Read the whole Holy Bible and get good grades
 - 🔥 Fun fact: I love to play the guitar and go to the gym
 
 ## Experience
 - [Energisa][energisa] (09/11/2023 - present)
   - Data analysis and visualization
+  - Microsoft Power BI
+  - Python
 
 ## Volunteer Experience
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
