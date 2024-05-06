@@ -7,7 +7,7 @@
 - 🔥 Fun fact: I love to play the guitar and go to the gym
 
 ## Experience
-- [Energisa][energisa] (09/11/2023 - present)
+- [Energisa][energisa] (09/11/2023 - 06/05/2024)
   - Data analysis and visualization
   - Microsoft Power BI
   - Python
