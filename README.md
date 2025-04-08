@@ -51,8 +51,8 @@
 ## Stats:
 
 <div>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
   
 <br>
