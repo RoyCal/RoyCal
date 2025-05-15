@@ -1,7 +1,7 @@
 # Hi there, I'm Vito Elias - aka [RoyCal][steam]
 
 ## I'm a Student, Developer, Musician and Sportsman!
-- 👾 I'm currently learning operational research, software engineering and operating systems
+- 👾 I'm currently learning computer graphics, control and automation systems and AI applied to music
 - 🤝 I'm looking to collaborate with other projects and stuff
 - 🥅 2025 Goals: Read the whole Holy Bible and get good grades
 - 🔥 Fun fact: I'm a guitarist and gym freak
