@@ -3,8 +3,8 @@
 ## I'm a Student, Developer, Musician and Sportsman!
 - 👾 I'm currently learning operational research, software engineering and operating systems
 - 🤝 I'm looking to collaborate with other projects and stuff
-- 🥅 2024 Goals: Read the whole Holy Bible and get good grades
-- 🔥 Fun fact: I love to play the guitar and go to the gym
+- 🥅 2025 Goals: Read the whole Holy Bible and get good grades
+- 🔥 Fun fact: I'm a guitarist and gym freak
 
 ## Experience
 - [Energisa][energisa] (09/11/2023 - 06/05/2024)
@@ -12,9 +12,10 @@
   - Microsoft Power BI
   - Python
 
-## Volunteer Experience
+## Academic Experience
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
 - Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
+- Monitor of Microcontrollers course at UFPB
 
 ## Connect with me:
 <div> 
