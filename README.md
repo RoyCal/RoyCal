@@ -15,7 +15,7 @@
 ## Academic Experience
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
 - Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
-- Monitor of Microcontrollers course at UFPB (02/01/2025 - present)
+- Monitor of Microcontrollers course at UFPB (02/01/2025 - 12/12/2025)
 
 ## Connect with me:
 <div> 
