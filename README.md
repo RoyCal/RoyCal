@@ -42,7 +42,7 @@
   <img align="center" alt="Pygame" height="120" width="160" src="https://www.pygame.org/docs/_static/pygame_logo.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VsCode" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png">
   <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
@@ -54,6 +54,10 @@
 <div>
   <img height="225em" src="https://github-readme-stats.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
   <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
+
+<div>
+  <img height="225em" src="https://streak-stats.demolab.com?user=roycal&theme=dark"/>
 </div>
   
 <br>
