@@ -49,24 +49,6 @@
 
 <br>
 
-## Stats:
-
-<div>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
-
-<div>
-  <img height="225em" src="https://streak-stats.demolab.com?user=roycal&theme=dark"/>
-</div>
-  
-<br>
-  
-<div align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/roycal/count.svg"/>
-</div>
-
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
 [aria]: https://aria.ci.ufpb.br/en/sobre/
