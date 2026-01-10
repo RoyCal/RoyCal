@@ -45,16 +45,21 @@
   <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png">
   <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="MPLab X" height="70" width="80" src="https://pic-microcontroller.com/wp-content/uploads/2018/05/mplblgo.png.webp">
 </div>
 
 <br>
 
 ## Stats:
 
-</div>
+<br>
+
+<div align="center">
   <img height="225em" src="https://github-readme-stats-tawny-eight-64.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
   <img height="225em" src="https://github-readme-stats-tawny-eight-64.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
+
+<br>
 
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
