@@ -49,6 +49,13 @@
 
 <br>
 
+## Stats:
+
+</div>
+  <img height="225em" src="https://github-readme-stats-git-master-vitos-projects-75d3ecc5.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
+  <img height="225em" src="https://github-readme-stats-git-master-vitos-projects-75d3ecc5.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
+
 [steam]: https://steamcommunity.com/id/roycal/
 [tail]: https://github.com/TailUFPB
 [aria]: https://aria.ci.ufpb.br/en/sobre/
