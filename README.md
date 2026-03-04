@@ -1,9 +1,9 @@
 # Hi there, I'm Vito Elias - aka [RoyCal][steam]
 
 ## I'm a Student, Developer, Musician and Sportsman!
-- 👾 I'm currently learning computer graphics, control and automation systems and AI applied to music
+- 👾 I'm currently learning fullstack development
 - 🤝 I'm looking to collaborate with other projects and stuff
-- 🥅 2025 Goals: Read the whole Holy Bible and get good grades
+- 🥅 2026 Goals: finish reading the Bible
 - 🔥 Fun fact: I'm a guitarist and gym freak
 
 ## Experience
@@ -30,7 +30,7 @@
 
 <div align="center"><br>
   <a href="https://github.com/roycal">
-  <img align="center" alt="C" height="62" width=52" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+  <img align="center" alt="C" height="60" width="55" hspace="14" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
