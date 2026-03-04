@@ -30,22 +30,23 @@
 
 <div align="center"><br>
   <a href="https://github.com/roycal">
-  <img align="center" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C" height="62" width=52" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="html" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Assembly" height="60" width="100" src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png">
-  <img align="center" alt="MySQL" height="100" width="120" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Pygame" height="120" width="160" src="https://www.pygame.org/docs/_static/pygame_logo.svg">
+  <img align="center" alt="tailwindcss" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="react" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="node" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="next" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="MySQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Postgre" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VsCode" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png">
-  <img align="center" alt="Excel" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="PowerBI" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="MPLab X" height="70" width="80" src="https://pic-microcontroller.com/wp-content/uploads/2018/05/mplblgo.png.webp">
 </div>
 
 <br>
@@ -55,8 +56,8 @@
 <br>
 
 <div align="center">
-  <img height="225em" src="https://github-readme-stats-tawny-eight-64.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
-  <img height="225em" src="https://github-readme-stats-tawny-eight-64.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="225em" src="https://github-readme-eta-lyart.vercel.app/api?username=roycal&theme=highcontrast&show_icons=true&count_private=true"/>
+  <img height="225em" src="https://github-readme-eta-lyart.vercel.app/api/top-langs/?username=roycal&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <br>
