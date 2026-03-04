@@ -6,7 +6,7 @@
 - 🥅 2026 Goals: finish reading the Bible
 - 🔥 Fun fact: I'm a guitarist and gym freak
 
-## Experience
+## Professional Experience
 - [Energisa][energisa] (09/11/2023 - 06/05/2024)
   - Data analysis and visualization
   - Microsoft Power BI
@@ -39,6 +39,8 @@
   <img align="center" alt="html" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="tailwindcss" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="react" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <br>
+  <br>
   <img align="center" alt="node" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="next" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="MySQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
