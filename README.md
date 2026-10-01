@@ -1,21 +1,25 @@
-# Hi there, I'm Vito Elias - aka [RoyCal][steam]
+# Hi there, I'm Vito Elias — aka [RoyCal][steam]
 
-## I'm a Student, Developer, Musician and Sportsman!
-- 👾 I'm currently learning fullstack development
-- 🤝 I'm looking to collaborate with other projects and stuff
-- 🥅 2026 Goals: finish reading the Bible
-- 🔥 Fun fact: I'm a guitarist and gym freak
+## I'm a computer engineer, musician, and sports enthusiast!
+- 👾 Seeking my first opportunity as a developer
+- 🤝 Looking to contribute to other projects and meet new people
+- 🥅 2026 goal: finish reading the Bible
+- 🔥 Fun fact: I'm a guitarist and a gym enthusiast
+
+## Education
+- Federal University of Paraíba (UFPB) | 2021–2026
+  - Bachelor's degree in Computer Engineering
 
 ## Professional Experience
-- [Energisa][energisa] (09/11/2023 - 06/05/2024)
+- [Energisa][energisa] (November 9, 2023 – May 6, 2024)
   - Data analysis and visualization
   - Microsoft Power BI
   - Python
 
 ## Academic Experience
 - Member of [TAIL][tail] (Technology and Artificial Intelligence League)
-- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
-- Monitor of Microcontrollers course at UFPB (02/01/2025 - 12/12/2025)
+- Member of the IEEE [RAS][RAS] chapter at UFPB (Robotics and Automation Society)
+- Teaching Assistant for the Microcontrollers course at UFPB (January 2, 2025 – December 12, 2025)
 
 ## Connect with me:
 <div> 
