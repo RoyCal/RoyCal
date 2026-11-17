@@ -1,10 +1,14 @@
 # Hi there, I'm Vito Elias — aka [RoyCal][steam]
 
-## I'm a computer engineer, musician, and sports enthusiast!
-- 👾 Seeking my first opportunity as a developer
-- 🤝 Looking to contribute to other projects and meet new people
-- 🥅 2026 goal: finish reading the Bible
-- 🔥 Fun fact: I'm a guitarist and a gym enthusiast
+I hold a degree in Computer Engineering from the Federal University of Paraíba.
+I develop backend projects with Java and Spring Boot, working with REST APIs,
+data persistence, and layered architecture.
+
+During my internship at Energisa Paraíba, I developed Python scripts to automate
+data extraction and updates for dashboards. I also delivered
+four functional, interactive reports/dashboards in Power BI.
+
+I am currently deepening my knowledge of Java and Spring Boot.
 
 ## Education
 - Federal University of Paraíba (UFPB) | 2021–2026
@@ -29,6 +33,16 @@
   <a href = "https://steamcommunity.com/id/roycal/"><img src="https://img.shields.io/badge/-Steam-2F3134?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 <br>
+
+## Main Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Order API](https://github.com/RoyCal/springboot-jpa) | User CRUD operations and queries for orders, products, and categories, with entity relationships. | Java, Spring Boot, JPA, and H2 |
+| [Social Network API](https://github.com/RoyCal/springboot-mongodb) | Operations for users, posts, and comments, along with text and date searches. | Java, Spring Boot, and MongoDB |
+| [Customer API with CSV Persistence](https://github.com/RoyCal/SpringBoot-CSV-API) | Customer creation, retrieval, updates, and deletion with file-based persistence. | Java, Spring Boot, and CSV |
+| [Altimetry Visualization — Undergraduate Final Project](https://github.com/RoyCal/Interface-altimetro-TCC) | Retrieval and visualization of altimetry measurements. | TypeScript, Next.js, and MySQL |
+| [JDBC Data Management](https://github.com/RoyCal/demo-dao-jdbc) | Operations for sellers and departments using SQL and the DAO pattern. | Java and JDBC |
 
 ## Languages and tools:
 
